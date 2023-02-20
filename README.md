@@ -1,2 +1,2 @@
-# SMAD
-baseline for SMAD dataset
+# SceneFake
+baseline for SceneFake dataset
